@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Salem Nur Abir
 
-<!--
-**ABiR994/ABiR994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student at AIUB  
+🌱 Exploring programming fundamentals & Linux  
+💡 Curious about technology and learning by doing  
+🛠️ Building small projects to improve my skills  
+📫 Reach me at: salemnurabir2@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming fundamentals  
+- Linux / Command line  
+- Git & GitHub  
+- Problem-solving & logic building  
+
+---
+
+## 🌱 Currently Learning
+- Core computer science concepts  
+- Small projects to practice programming and Linux  
+- Experimenting with new tools and technologies  
+
+---
