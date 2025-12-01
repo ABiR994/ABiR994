@@ -4,7 +4,8 @@
 🌱 Exploring programming fundamentals & Linux  
 💡 Curious about technology and learning by doing  
 🛠️ Building small projects to improve my skills  
-📫 Reach me at: salemnurabir2@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salem%20Nur%20Abir-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir-37663739b)
+📫 Reach me at: [![Email](https://img.shields.io/badge/Email-salemnurabir2@gmail.com-red?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
+ or [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salem%20Nur%20Abir-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir-37663739b)
 
 ---
 
