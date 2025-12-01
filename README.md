@@ -4,6 +4,7 @@
 🌱 Exploring programming fundamentals & Linux  
 💡 Curious about technology and learning by doing  
 🛠️ Building small projects to improve my skills  
+🎮 Enjoy story-driven games
 
 ---
 
