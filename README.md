@@ -12,7 +12,7 @@
 - **Languages**: C++, Java  
 - **Systems**: Linux / Command Line  
 - **Tools**: Git & GitHub, VS Code  
-- **Concepts**: OOP, File I/O, Data Structures, Problem Solving  
+- **Concepts**: OOP, File I/O, Java Swing, Data Structures, Problem Solving  
 
 ---
 
@@ -30,5 +30,9 @@
 - [![Recur101](https://img.shields.io/badge/Recur101-Organization-100000?style=flat&logo=github&logoColor=white)](https://github.com/Recur101)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salem%20Nur%20Abir-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir)
 - [![Email](https://img.shields.io/badge/Email-salemnurabir2@gmail.com-red?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
+
+---
+
+*“Learning by doing” — every line of code is a step forward.* 💻
 
 ---
