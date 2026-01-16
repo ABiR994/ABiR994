@@ -3,7 +3,7 @@
 🎓 CSE student at AIUB  
 🌱 Exploring programming fundamentals in **C++ & Java** and **Linux systems**  
 💡 Curious about technology — believe in **learning by doing**  
-🛠️ Building small, meaningful projects: from **CLI tools** and **Java Swing apps**
+🛠️ Building small, meaningful projects: from **CLI tools** and **Java Swing apps** 
 🎮 Game Enthusiast — drawn to story-driven experiences and thoughtful design  
 
 ---
