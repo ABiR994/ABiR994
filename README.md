@@ -1,26 +1,25 @@
 # Hi 👋 I'm Salem Nur Abir
 
 🎓 CSE student at AIUB  
-🌱 Exploring programming fundamentals & Linux  
-💡 Curious about technology and learning by doing  
-🛠️ Building small, meaningful projects to sharpen my skills  
-🎮 Game Enthusiast — love story-driven games  
+🌱 Exploring programming fundamentals in **C++ & Java** and **Linux systems**  
+💡 Curious about technology — believe in **learning by doing**  
+🛠️ Building small, meaningful projects: from **CLI tools** and **Java Swing apps**
+🎮 Game Enthusiast — drawn to story-driven experiences and thoughtful design  
 
 ---
 
 ## 🔧 Skills & Tools
 - **Languages**: C++, Java  
-- **Systems**: Linux / Command Line  
+- **Systems**: Linux / Command Line / Bash Scripting  
 - **Tools**: Git & GitHub, VS Code  
-- **Concepts**: OOP, File I/O, Java Swing, Data Structures, Problem Solving  
+- **Concepts**: OOP, File I/O, Data Structures, Problem Solving, Java Swing  
 
 ---
 
 ## 🌱 Currently Learning
-- Core computer science concepts (DSA, DB)  
-- Practical Linux system usage & scripting  
-- Building and documenting small projects end-to-end  
-- Exploring new dev tools and workflows  
+- Core CS concepts: **Data Structures & Algorithms (DSA)**, **Databases**  
+- Practical **Linux system administration & scripting**  
+- End-to-end project development: **design → code → document → version control**  
 
 ---
 
@@ -30,10 +29,7 @@
 - [![Recur101](https://img.shields.io/badge/Recur101-Organization-100000?style=flat&logo=github&logoColor=white)](https://github.com/Recur101)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salem%20Nur%20Abir-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir)
 - [![Email](https://img.shields.io/badge/Email-salemnurabir2@gmail.com-red?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
-- [![Website](https://img.shields.io/badge/Website-salem--nur--abir.lovable.app-FF6F61?style=flat&logo=web&logoColor=white)](https://salem-nur-abir.lovable.app/)
 
 ---
 
-*“Learning by doing” — every line of code is a step forward.* 💻
-
----
+> *“Learning by doing” — every line of code is a step forward.* 💻
