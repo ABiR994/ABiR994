@@ -25,12 +25,18 @@
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
 
----
+      </td>
+      <td valign="top" width="50%">
 
 ## 💻 Tech Stack
 
@@ -54,12 +60,17 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)  
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white)
 
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
