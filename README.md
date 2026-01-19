@@ -46,7 +46,7 @@
 
 ### ✍️ Random Dev Quote
 
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=transparent)
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
 
