@@ -12,7 +12,7 @@
 
 - **Languages**: C++, Java, HTML, CSS  
 - **Systems**: Linux / Command Line / Bash Scripting  
-- **Tools**: Git & GitHub, VS Code, Antigravity, Opencode  
+- **Tools**: Git & GitHub, VS Code, Antigravity, OpenCode  
 - **Concepts**: OOP, File I/O, Data Structures, Problem Solving, Java Swing  
 
 ---
