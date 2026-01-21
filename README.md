@@ -144,9 +144,9 @@
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="512" height="512">
+</p>
 
 ---
 
