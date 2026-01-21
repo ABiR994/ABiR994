@@ -132,7 +132,11 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" height="165">
@@ -142,7 +146,11 @@
 
 ---
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
+
+</div>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="256" height="256">
@@ -150,6 +158,10 @@
 
 ---
 
+<div align="center">
+
 > *“Learning by doing” — every line of code is a step forward.* 💻
+
+</div>
 
 ---
