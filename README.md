@@ -32,10 +32,13 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) 
-[![Dinq](https://img.shields.io/badge/Dinq-181717?logo=link&logoColor=white)](https://dinq.me/abir994) 
-[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?logo=heart&logoColor=white)](https://lovable.dev/@abir994) 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Dinq](https://img.shields.io/badge/Dinq-181717?style=for-the-badge&logo=link&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
+
+[LinkedIn](https://www.linkedin.com/in/salem-nur-abir/) • [Email](mailto:salemnurabir2@gmail.com) • [Dinq](https://dinq.me/abir994) • [Lovable](https://lovable.dev/@abir994)
 
 ---
 
