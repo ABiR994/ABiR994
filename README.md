@@ -71,7 +71,7 @@
 
 ---
 
-## 🚀 Featured Projects (AI & OpenCode Assisted)
+## 🚀 Featured Projects
 
 ### 🌿 TaskZen — Focus-Driven Task Manager
 **Modern task manager built with React & TypeScript**  
@@ -104,17 +104,18 @@
 
 - Procedurally generated tracks  
 - Score tracking & responsive controls  
-- Built with **JavaScript + Canvas**
+- Built with **JavaScript + Canvas + AI workflows**
 
+🔗 Live: [Neon Drift - Infinite Run](https://abir994.github.io/Neon-Drift-Infinite-Run/)  
 🔗 Repo: [GitHub](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
 
 ---
 
 ### 🏦 Bank Account Management System
-**Console-based banking system for learning OOP & file handling**  
+**Console-based banking system for learning OOP, file handling & Java Swing**  
 
 - Account creation, deposit/withdrawal, transaction history  
-- Built with **Java & OOP principles**
+- Built with **Java Swing & OOP principles**
 
 🔗 Repo: [GitHub](https://github.com/Recur101/Bank-Account-Management-System)
 
@@ -124,8 +125,9 @@
 **Clean, responsive portfolio website**  
 
 - Modern UI design, fully responsive  
-- Built with **HTML, CSS & JavaScript**
+- Built with **HTML, CSS & JavaScript + AI Workflows**
 
+🔗 Live: [Burak Studio](https://abir994.github.io/Burak-Studio/)  
 🔗 Repo: [GitHub](https://github.com/ABiR994/Burak-Studio)
 
 ---
@@ -141,7 +143,10 @@
 ---
 
 ### ✍️ Random Dev Quote
+
+<div align="center">
 ![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+</div>
 
 ---
 
