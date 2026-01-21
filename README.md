@@ -40,7 +40,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)  
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abir994&theme=dark)](https://git.io/streak-stats)
 
 ---
 
