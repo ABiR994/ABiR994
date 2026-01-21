@@ -145,7 +145,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="512" height="512">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="256" height="256">
 </p>
 
 ---
