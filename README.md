@@ -31,6 +31,14 @@
 
 ---
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) 
+[![Dinq](https://img.shields.io/badge/Dinq-181717?logo=link&logoColor=white)](https://dinq.me/abir994) 
+[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?logo=heart&logoColor=white)](https://lovable.dev/@abir994) 
+
+---
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -90,14 +98,34 @@
 
 ---
 
-### 🏢 IMA Agency — Marketing Website
-**Clean, responsive agency landing page**  
+### 🏎️ Neon Drift — Infinite Runner Game
+**Endless arcade racing game with retro neon vibes**  
 
-- Modern UI  
-- Fully responsive design  
-- Deployed on Vercel  
+- Procedurally generated tracks  
+- Score tracking & responsive controls  
+- Built with **JavaScript + Canvas**
 
-🔗 Live: [IMA Agency](https://ima-agency.vercel.app/)
+🔗 Repo: [GitHub](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
+
+---
+
+### 🏦 Bank Account Management System
+**Console-based banking system for learning OOP & file handling**  
+
+- Account creation, deposit/withdrawal, transaction history  
+- Built with **Java & OOP principles**
+
+🔗 Repo: [GitHub](https://github.com/Recur101/Bank-Account-Management-System)
+
+---
+
+### 🎨 Burak Studio — Agency Portfolio
+**Clean, responsive portfolio website**  
+
+- Modern UI design, fully responsive  
+- Built with **HTML, CSS & JavaScript**
+
+🔗 Repo: [GitHub](https://github.com/ABiR994/Burak-Studio)
 
 ---
 
@@ -117,13 +145,5 @@
 ---
 
 > *“Learning by doing” — every line of code is a step forward.* 💻
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) 
-[![Dinq](https://img.shields.io/badge/Dinq-181717?logo=link&logoColor=white)](https://dinq.me/abir994) 
-[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?logo=heart&logoColor=white)](https://lovable.dev/@abir994) 
 
 ---
