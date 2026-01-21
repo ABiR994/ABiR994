@@ -10,9 +10,9 @@
 
 ## 🔧 Skills & Tools
 
-- **Languages**: C++, Java  
+- **Languages**: C++, Java, HTML, CSS  
 - **Systems**: Linux / Command Line / Bash Scripting  
-- **Tools**: Git & GitHub, VS Code  
+- **Tools**: Git & GitHub, VS Code, Antigravity, Opencode  
 - **Concepts**: OOP, File I/O, Data Structures, Problem Solving, Java Swing  
 
 ---
