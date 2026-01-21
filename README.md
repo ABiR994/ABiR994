@@ -27,7 +27,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salem-nur-abir/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) [![Dinq](https://img.shields.io/badge/Dinq-181717?logo=link&logoColor=white)](https://dinq.me/abir994) [![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?logo=heart&logoColor=white)](https://lovable.dev/@abir994) 
 
 ---
 
