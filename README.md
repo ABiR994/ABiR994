@@ -83,7 +83,7 @@
 * Glassmorphism UI & accessibility-first design
 * Built using **OpenCode & Antigravity workflows**
 
-🔗 Live: [https://maze-runner-rust.vercel.app/](https://maze-runner-rust.vercel.app/)
+🔗 Live: [https://maze-runner-rust.vercel.app/](https://maze-runner-rust.vercel.app/)  
 🔗 Repo: [https://github.com/ABiR994/Maze-Runner](https://github.com/ABiR994/Maze-Runner)
 
 ---
@@ -98,7 +98,7 @@
 * PWA-ready with offline support
 * Built with **Next.js + TypeScript + AI workflows**
 
-🔗 Live: [https://late-night-thoughts-five.vercel.app/](https://late-night-thoughts-five.vercel.app/)
+🔗 Live: [https://late-night-thoughts-five.vercel.app/](https://late-night-thoughts-five.vercel.app/)  
 🔗 Repo: [https://github.com/ABiR994/Late-Night-Thoughts](https://github.com/ABiR994/Late-Night-Thoughts)
 
 ---
@@ -113,7 +113,7 @@
 * Local-first, privacy-respecting data storage
 * Built using **React, TypeScript, OpenCode & Antigravity**
 
-🔗 Live: [https://task-zen-topaz.vercel.app/](https://task-zen-topaz.vercel.app/)
+🔗 Live: [https://task-zen-topaz.vercel.app/](https://task-zen-topaz.vercel.app/)  
 🔗 Repo: [https://github.com/ABiR994/TaskZen](https://github.com/ABiR994/TaskZen)
 
 ---
@@ -128,7 +128,7 @@
 * Cinematic camera, particles & post-processing effects
 * Built with **TypeScript, Three.js & AI workflows**
 
-🔗 Live: [https://abir994.github.io/Neon-Drift-Infinite-Run/](https://abir994.github.io/Neon-Drift-Infinite-Run/)
+🔗 Live: [https://abir994.github.io/Neon-Drift-Infinite-Run/](https://abir994.github.io/Neon-Drift-Infinite-Run/)  
 🔗 Repo: [https://github.com/ABiR994/Neon-Drift-Infinite-Run](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
 
 ---
@@ -142,7 +142,7 @@
 * Motion-enhanced UX with Framer Motion
 * Built with **React, TypeScript & Tailwind**
 
-🔗 Live: [https://ima-agency.vercel.app/](https://ima-agency.vercel.app/)
+🔗 Live: [https://ima-agency.vercel.app/](https://ima-agency.vercel.app/)  
 🔗 Repo: [https://github.com/ABiR994/ima-agency](https://github.com/ABiR994/ima-agency)
 
 ---
