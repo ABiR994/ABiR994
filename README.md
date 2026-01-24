@@ -73,51 +73,91 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 TaskZen — Focus-Driven Task Manager
-**Modern task manager built with React & TypeScript**  
+### 🧩 Maze Runner — Procedural Puzzle Adventure
 
-- Subtasks, recurring tasks, tags, priorities  
-- Keyboard navigation & dark/light mode  
-- Drag-and-drop reordering  
-- Built using **AI-assisted coding with OpenCode & Antigravity**
+**High-performance, modular maze game built with TypeScript & Canvas**
 
-🔗 Live: [TaskZen](https://task-zen-topaz.vercel.app/)  
-🔗 Repo: [GitHub](https://github.com/ABiR994/TaskZen)
+* Recursive backtracking maze generation
+* Star-based progression & persistent saves
+* 60 FPS canvas rendering with smooth lerp movement
+* Glassmorphism UI & accessibility-first design
+* Built using **OpenCode & Antigravity workflows**
+
+🔗 Live: [https://maze-runner-rust.vercel.app/](https://maze-runner-rust.vercel.app/)
+🔗 Repo: [https://github.com/ABiR994/Maze-Runner](https://github.com/ABiR994/Maze-Runner)
 
 ---
 
 ### 🌙 Late Night Thoughts — Anonymous Journal
-**Privacy-first journaling platform for late-night reflections**  
 
-- Anonymous authentication (Supabase)  
-- Public / private thoughts with RLS security  
-- Mood tagging & immersive reading mode  
-- Built with **Next.js + TypeScript + AI workflows**
+**Privacy-first journaling platform for late-night reflections**
 
-🔗 Live: [Late Night Thoughts](https://late-night-thoughts-five.vercel.app/)  
-🔗 Repo: [GitHub](https://github.com/ABiR994/late-night-thoughts)
+* Anonymous authentication with Supabase
+* Public / private thoughts enforced via RLS
+* Mood tagging & immersive reading mode
+* PWA-ready with offline support
+* Built with **Next.js + TypeScript + AI workflows**
+
+🔗 Live: [https://late-night-thoughts-five.vercel.app/](https://late-night-thoughts-five.vercel.app/)
+🔗 Repo: [https://github.com/ABiR994/Late-Night-Thoughts](https://github.com/ABiR994/Late-Night-Thoughts)
+
+---
+
+### 🌿 TaskZen — Focus-Driven Task Manager
+
+**Modern productivity app designed for deep focus**
+
+* Subtasks, recurring tasks, tags & priorities
+* Keyboard-first navigation & focus mode
+* Drag-and-drop reordering
+* Local-first, privacy-respecting data storage
+* Built using **React, TypeScript, OpenCode & Antigravity**
+
+🔗 Live: [https://task-zen-topaz.vercel.app/](https://task-zen-topaz.vercel.app/)
+🔗 Repo: [https://github.com/ABiR994/TaskZen](https://github.com/ABiR994/TaskZen)
 
 ---
 
 ### 🏎️ Neon Drift — Infinite Runner Game
-**Endless arcade racing game with retro neon vibes**  
 
-- Procedurally generated tracks  
-- Score tracking & responsive controls  
-- Built with **JavaScript + Canvas + AI workflows**
+**Fast-paced cyberpunk infinite runner built with Three.js**
 
-🔗 Live: [Neon Drift - Infinite Run](https://abir994.github.io/Neon-Drift-Infinite-Run/)  
-🔗 Repo: [GitHub](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
+* Procedural tracks & dynamic neon environments
+* Power-ups, upgrades, skins & persistent economy
+* Mobile-friendly PWA with touch controls
+* Cinematic camera, particles & post-processing effects
+* Built with **TypeScript, Three.js & AI workflows**
+
+🔗 Live: [https://abir994.github.io/Neon-Drift-Infinite-Run/](https://abir994.github.io/Neon-Drift-Infinite-Run/)
+🔗 Repo: [https://github.com/ABiR994/Neon-Drift-Infinite-Run](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
+
+---
+
+### 🌌 IMA Agency — Marketing Performance Website
+
+**Premium, conversion-focused agency landing platform**
+
+* Revenue-first UI & strategic CTA placement
+* Dark, minimal, glassmorphic design system
+* Motion-enhanced UX with Framer Motion
+* Built with **React, TypeScript & Tailwind**
+
+🔗 Live: [https://ima-agency.vercel.app/](https://ima-agency.vercel.app/)
+🔗 Repo: [https://github.com/ABiR994/ima-agency](https://github.com/ABiR994/ima-agency)
 
 ---
 
 ### 🏦 Bank Account Management System
-**Console-based banking system for learning OOP, file handling & Java Swing**  
 
-- Account creation, deposit/withdrawal, transaction history  
-- Built with **Java Swing & OOP principles**
+**Java Swing desktop application for OOP & file handling**
 
-🔗 Repo: [GitHub](https://github.com/Recur101/Bank-Account-Management-System)
+* Single-page GUI using CardLayout
+* Savings & Checking account logic
+* Secure login, transactions & transfers
+* Plain-text persistence (academic focus)
+* Built as a **university lab project (AIUB)**
+
+🔗 Repo: [https://github.com/Recur101/Bank-Account-Management-System](https://github.com/Recur101/Bank-Account-Management-System)
 
 ---
 
