@@ -121,17 +121,6 @@
 
 ---
 
-### 🎨 Burak Studio — Agency Portfolio
-**Clean, responsive portfolio website**  
-
-- Modern UI design, fully responsive  
-- Built with **HTML, CSS & JavaScript + AI Workflows**
-
-🔗 Live: [Burak Studio](https://abir994.github.io/Burak-Studio/)  
-🔗 Repo: [GitHub](https://github.com/ABiR994/Burak-Studio)
-
----
-
 <div align="center">
 
 ## 📊 GitHub Stats
