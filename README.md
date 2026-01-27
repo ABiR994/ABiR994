@@ -15,19 +15,20 @@
 ## 🌱 About Me
 
 * 🎓 CSE student focused on **learning core computer science while building projects**
-* 💻 Building **small to medium web apps using AI-assisted workflows** to speed up iteration
-* 🌙 Interested in **UI/UX polish, clean design, and calm user experiences**
+* 💻 Building **small to medium web apps, often using AI-assisted workflows** to speed up iteration
+* 🌙 Passionate about **UI/UX polish, clean design, and calm user experiences**
 * 🚀 Comfortable **shipping projects end-to-end, debugging persistently, and refining interfaces**
+* 💡 Currently improving: **Data Structures, Algorithms, and independent coding skills**
 * 🎯 Long-term goal: become a **well-rounded software engineer with strong fundamentals**
 
 ---
 
 ## 🔧 Skills & Tools
 
-* **Languages**: C++, Java, HTML, CSS, JavaScript
-* **Systems**: Linux, Command Line, Bash Scripting
+* **Languages**: C++ (Intermediate), Java (Intermediate), HTML/CSS (Familiar), JavaScript (Familiar)
+* **Systems**: Linux (Familiar), Command Line, Bash Scripting
 * **Tools**: Git & GitHub, VS Code, OpenCode, Antigravity
-* **Concepts**: OOP, File I/O, Data Structures (beginner), Problem Solving
+* **Concepts**: OOP, File I/O, Data Structures (Learning), Problem Solving
 
 ---
 
@@ -74,9 +75,9 @@
 
 **Interactive maze game with modular, high-performance design**
 
+* Implemented **UI polish, animation smoothing, and debugging procedural maze generation** (AI-assisted workflow used for boilerplate)
 * Recursive maze generation & persistent saves
 * 60 FPS canvas rendering & smooth animations
-* Built with **OpenCode & Antigravity workflows**
 
 🔗 Live: [maze-runner-rust.vercel.app](https://maze-runner-rust.vercel.app/)  
 🔗 Repo: [github.com/ABiR994/Maze-Runner](https://github.com/ABiR994/Maze-Runner)
@@ -87,9 +88,9 @@
 
 **Privacy-focused journaling platform**
 
+* Focused on **UI/UX refinement, debugging, and PWA offline support**
 * Anonymous login & public/private control
 * Mood tagging & immersive reading mode
-* PWA-ready & offline-capable
 
 🔗 Live: [late-night-thoughts-five.vercel.app](https://late-night-thoughts-five.vercel.app/)  
 🔗 Repo: [github.com/ABiR994/Late-Night-Thoughts](https://github.com/ABiR994/Late-Night-Thoughts)
@@ -100,7 +101,7 @@
 
 **Productivity app with keyboard-first navigation & local-first storage**
 
-* Subtasks, recurring tasks, drag-and-drop
+* Implemented **drag-and-drop reordering, subtask features, and UI polish**
 * Built with **React, TypeScript & AI-assisted workflows**
 
 🔗 Live: [task-zen-topaz.vercel.app](https://task-zen-topaz.vercel.app/)  
@@ -127,8 +128,8 @@
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" height="165">
-<img src="https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" height="165">  
+<img src="https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false" height="165">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165">
 </p>
 
@@ -149,6 +150,7 @@
 <div align="center">
 
 > *“Learning by doing” — every line of code is a step forward.* 💻
+> *Open to collaboration, feedback, and new project ideas!*
 
 </div>
 
