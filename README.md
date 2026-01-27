@@ -149,7 +149,7 @@
 
 <div align="center">
 
-> *“Learning by doing” — every line of code is a step forward.* 💻
+*“Learning by doing” — every line of code is a step forward.* 💻  
 > *Open to collaboration, feedback, and new project ideas!*
 
 </div>
