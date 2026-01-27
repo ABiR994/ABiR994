@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Salem Nur Abir</h1>
 
 <p align="center">
-🎓 CSE student at AIUB • 🌱 Exploring C++, Java & Linux • 💡 Building meaningful, real-world projects
+🎓 CSE Student @ AIUB • 🌱 Exploring C++, Java & Linux • 💡 Building real-world, AI-assisted web projects
 </p>
 
 <p align="center">
@@ -14,60 +14,57 @@
 
 ## 🌱 About Me
 
-- 🎓 CSE student passionate about **practical software engineering**  
-- 💻 Building **modern, accessible, production-ready apps**  
-- 🌙 Focused on **product design, privacy-first systems & calm UX**  
-- 🚀 Projects leverage **AI, OpenCode & Antigravity workflows** for enhanced productivity  
-- 🎯 Long-term goal: become a **well-rounded, skilled software engineer**
+* 🎓 CSE student focused on **learning core computer science while building projects**
+* 💻 Building **small to medium web apps using AI-assisted workflows** to speed up iteration
+* 🌙 Interested in **UI/UX polish, clean design, and calm user experiences**
+* 🚀 Comfortable **shipping projects end-to-end, debugging persistently, and refining interfaces**
+* 🎯 Long-term goal: become a **well-rounded software engineer with strong fundamentals**
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Languages**: C++, Java, HTML, CSS, JavaScript  
-- **Systems**: Linux, Command Line, Bash Scripting  
-- **Tools**: Git & GitHub, VS Code, Antigravity, OpenCode  
-- **Concepts**: OOP, File I/O, Data Structures, Problem Solving, Java Swing  
+* **Languages**: C++, Java, HTML, CSS, JavaScript
+* **Systems**: Linux, Command Line, Bash Scripting
+* **Tools**: Git & GitHub, VS Code, OpenCode, Antigravity
+* **Concepts**: OOP, File I/O, Data Structures (beginner), Problem Solving
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com) 
-[![Dinq](https://img.shields.io/badge/Dinq-181717?style=for-the-badge&logo=link&logoColor=white)](https://dinq.me/abir994) 
-[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)](https://lovable.dev/@abir994)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:salemnurabir2@gmail.com)
+[![Dinq](https://img.shields.io/badge/Dinq-181717?style=for-the-badge\&logo=link\&logoColor=white)](https://dinq.me/abir994)
+[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge\&logo=heart\&logoColor=white)](https://lovable.dev/@abir994)
 
 ---
 
 ## 💻 Tech Stack
 
 ### Frontend
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
-![OpenCode](https://img.shields.io/badge/OpenCode-FF6A00?style=for-the-badge&logo=ghost) 
-![Antigravity](https://img.shields.io/badge/Antigravity-5A5AFF?style=for-the-badge&logo=python) 
 
-### Hardware & Dev Tools
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/Pi-Hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-FF6A00?style=for-the-badge\&logo=ghost)
+![Antigravity](https://img.shields.io/badge/Antigravity-5A5AFF?style=for-the-badge\&logo=python)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Core CS concepts: **Data Structures & Algorithms (DSA), Databases**  
-- Practical **Linux system administration & scripting**  
-- End-to-end project development: **design → code → document → version control**  
+* Core CS: **Data Structures & Algorithms, Databases**
+* Practical **Linux system use & scripting**
+* Project workflows: **design → code → debug → deploy → version control**
 
 ---
 
@@ -75,87 +72,49 @@
 
 ### 🧩 Maze Runner — Procedural Puzzle Adventure
 
-**High-performance, modular maze game built with TypeScript & Canvas**
+**Interactive maze game with modular, high-performance design**
 
-* Recursive backtracking maze generation
-* Star-based progression & persistent saves
-* 60 FPS canvas rendering with smooth lerp movement
-* Glassmorphism UI & accessibility-first design
-* Built using **OpenCode & Antigravity workflows**
+* Recursive maze generation & persistent saves
+* 60 FPS canvas rendering & smooth animations
+* Built with **OpenCode & Antigravity workflows**
 
-🔗 Live: [maze-runner-rust.vercel.app](https://maze-runner-rust.vercel.app/)  
+🔗 Live: [maze-runner-rust.vercel.app](https://maze-runner-rust.vercel.app/)
 🔗 Repo: [github.com/ABiR994/Maze-Runner](https://github.com/ABiR994/Maze-Runner)
 
 ---
 
 ### 🌙 Late Night Thoughts — Anonymous Journal
 
-**Privacy-first journaling platform for late-night reflections**
+**Privacy-focused journaling platform**
 
-* Anonymous authentication with Supabase
-* Public / private thoughts enforced via RLS
+* Anonymous login & public/private control
 * Mood tagging & immersive reading mode
-* PWA-ready with offline support
-* Built with **Next.js + TypeScript + AI workflows**
+* PWA-ready & offline-capable
 
-🔗 Live: [late-night-thoughts-five.vercel.app](https://late-night-thoughts-five.vercel.app/)  
+🔗 Live: [late-night-thoughts-five.vercel.app](https://late-night-thoughts-five.vercel.app/)
 🔗 Repo: [github.com/ABiR994/Late-Night-Thoughts](https://github.com/ABiR994/Late-Night-Thoughts)
 
 ---
 
-### 🌿 TaskZen — Focus-Driven Task Manager
+### 🌿 TaskZen — Focused Task Manager
 
-**Modern productivity app designed for deep focus**
+**Productivity app with keyboard-first navigation & local-first storage**
 
-* Subtasks, recurring tasks, tags & priorities
-* Keyboard-first navigation & focus mode
-* Drag-and-drop reordering
-* Local-first, privacy-respecting data storage
-* Built using **React, TypeScript, OpenCode & Antigravity**
+* Subtasks, recurring tasks, drag-and-drop
+* Built with **React, TypeScript & AI-assisted workflows**
 
-🔗 Live: [task-zen-topaz.vercel.app](https://task-zen-topaz.vercel.app/)  
+🔗 Live: [task-zen-topaz.vercel.app](https://task-zen-topaz.vercel.app/)
 🔗 Repo: [github.com/ABiR994/TaskZen](https://github.com/ABiR994/TaskZen)
-
----
-
-### 🏎️ Neon Drift — Infinite Runner Game
-
-**Fast-paced cyberpunk infinite runner built with Three.js**
-
-* Procedural tracks & dynamic neon environments
-* Power-ups, upgrades, skins & persistent economy
-* Mobile-friendly PWA with touch controls
-* Cinematic camera, particles & post-processing effects
-* Built with **TypeScript, Three.js & AI workflows**
-
-🔗 Live: [abir994.github.io/Neon-Drift-Infinite-Run](https://abir994.github.io/Neon-Drift-Infinite-Run/)  
-🔗 Repo: [github.com/ABiR994/Neon-Drift-Infinite-Run](https://github.com/ABiR994/Neon-Drift-Infinite-Run)
-
----
-
-### 🌌 IMA Agency — Marketing Performance Website
-
-**Premium, conversion-focused agency landing platform**
-
-* Revenue-first UI & strategic CTA placement
-* Dark, minimal, glassmorphic design system
-* Motion-enhanced UX with Framer Motion
-* Built with **React, TypeScript & Tailwind**
-
-🔗 Live: [ima-agency.vercel.app](https://ima-agency.vercel.app/)  
-🔗 Repo: [github.com/ABiR994/ima-agency](https://github.com/ABiR994/ima-agency)
 
 ---
 
 ### 🏦 Bank Account Management System
 
-**Java Swing desktop application for OOP & file handling**
+**Java Swing desktop app for learning OOP & file handling**
 
-* Single-page GUI using CardLayout
-* Savings & Checking account logic
-* Secure login, transactions & transfers
-* Plain-text persistence
-* Built as a **university lab project (AIUB)**
+* Single-page GUI with CardLayout
+* Savings & checking accounts, secure login
+* University lab project (AIUB)
 
 🔗 Repo: [github.com/Recur101/Bank-Account-Management-System](https://github.com/Recur101/Bank-Account-Management-System)
 
