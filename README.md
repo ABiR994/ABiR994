@@ -78,7 +78,7 @@
 * 60 FPS canvas rendering & smooth animations
 * Built with **OpenCode & Antigravity workflows**
 
-🔗 Live: [maze-runner-rust.vercel.app](https://maze-runner-rust.vercel.app/)
+🔗 Live: [maze-runner-rust.vercel.app](https://maze-runner-rust.vercel.app/)  
 🔗 Repo: [github.com/ABiR994/Maze-Runner](https://github.com/ABiR994/Maze-Runner)
 
 ---
@@ -91,7 +91,7 @@
 * Mood tagging & immersive reading mode
 * PWA-ready & offline-capable
 
-🔗 Live: [late-night-thoughts-five.vercel.app](https://late-night-thoughts-five.vercel.app/)
+🔗 Live: [late-night-thoughts-five.vercel.app](https://late-night-thoughts-five.vercel.app/)  
 🔗 Repo: [github.com/ABiR994/Late-Night-Thoughts](https://github.com/ABiR994/Late-Night-Thoughts)
 
 ---
@@ -103,7 +103,7 @@
 * Subtasks, recurring tasks, drag-and-drop
 * Built with **React, TypeScript & AI-assisted workflows**
 
-🔗 Live: [task-zen-topaz.vercel.app](https://task-zen-topaz.vercel.app/)
+🔗 Live: [task-zen-topaz.vercel.app](https://task-zen-topaz.vercel.app/)  
 🔗 Repo: [github.com/ABiR994/TaskZen](https://github.com/ABiR994/TaskZen)
 
 ---
