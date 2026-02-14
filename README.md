@@ -25,7 +25,8 @@
 
 ## 🔧 Skills & Tools
 
-* **Languages**: C++ (Intermediate), Java (Intermediate), HTML/CSS (Familiar), JavaScript (Familiar)
+* **Languages**: C++ (Intermediate), Java (Intermediate), HTML/CSS (Familiar), JavaScript (Familiar), TypeScript (Familiar)
+* **Frameworks**: React, Next.js, Framer Motion
 * **Systems**: Linux (Familiar), Command Line, Bash Scripting
 * **Tools**: Git & GitHub, VS Code, OpenCode, Antigravity
 * **Concepts**: OOP, File I/O, Data Structures (Learning), Problem Solving
@@ -34,30 +35,32 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:salemnurabir2@gmail.com)
-[![Dinq](https://img.shields.io/badge/Dinq-181717?style=for-the-badge\&logo=link\&logoColor=white)](https://dinq.me/abir994)
-[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge\&logo=heart\&logoColor=white)](https://lovable.dev/@abir994)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abir994.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ar1b_3)
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
+### Languages & Frameworks
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Tools & Platforms
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-FF6A00?style=for-the-badge\&logo=ghost)
-![Antigravity](https://img.shields.io/badge/Antigravity-5A5AFF?style=for-the-badge\&logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -71,11 +74,38 @@
 
 ## 🚀 Featured Projects
 
+### 🛒 Bazaar Dor — Shopping Helper
+
+**Native Android app for market data and budgeting in Bangladesh**
+
+* Live market monitoring synchronized with official DAM data
+* Bilingual interface (Bengali/English) with voice input support
+* Smart shopping list with budget tracking and real-time spending alerts
+* Visual price trends with 7-day historical charts
+
+📱 Download APK: [Latest Release](https://github.com/ABiR994/Bazaar-Dor/releases)  
+🔗 Repo: [github.com/ABiR994/Bazaar-Dor](https://github.com/ABiR994/Bazaar-Dor)
+
+---
+
+### 🎓 AIUB PortalX — Portal Assistant
+
+**Modern Chrome extension streamlining the AIUB student experience**
+
+* Smart routine and holiday alerts with personalized dashboard
+* Advanced course advisor with multi-program support (CSE/EEE)
+* Experimental auto-login engine with intelligent OCR race mode
+* Built with React 19, TypeScript, and Tesseract.js
+
+🔗 Repo: [github.com/ABiR994/AIUB-PortalX](https://github.com/ABiR994/AIUB-PortalX)
+
+---
+
 ### 🧩 Maze Runner — Procedural Puzzle Adventure
 
 **Interactive maze game with modular, high-performance design**
 
-* Implemented **UI polish, animation smoothing, and debugging procedural maze generation** (AI-assisted workflow used for boilerplate)
+* Implemented **UI polish, animation smoothing, and debugging procedural maze generation**
 * Recursive maze generation & persistent saves
 * 60 FPS canvas rendering & smooth animations
 
@@ -109,6 +139,19 @@
 
 ---
 
+### 🎨 IMA Agency — Modern Agency Landing
+
+**Premium marketing agency landing page**
+
+* "Near-Dark" aesthetic with glassmorphism and ambient gradients
+* Strategic CTA placement optimized for conversions
+* Built with React, TypeScript, and Tailwind CSS
+
+🔗 Live: [ima-agency.vercel.app](https://ima-agency.vercel.app/)  
+🔗 Repo: [github.com/ABiR994/IMA-Agency](https://github.com/ABiR994/IMA-Agency)
+
+---
+
 ### 🏦 Bank Account Management System
 
 **Java Swing desktop app for learning OOP & file handling**
@@ -123,7 +166,7 @@
 
 <div align="center">
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repos
 
 </div>
 
@@ -161,7 +204,7 @@
 
 <div align="center">
 
-*“Learning by doing” — every line of code is a step forward.* 💻  
+*"Learning by doing" — every line of code is a step forward.* 💻  
 > *Open to collaboration, feedback, and new project ideas!*
 
 </div>
