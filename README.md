@@ -192,18 +192,6 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-
-</div>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="256" height="256">
-</p>
-
----
-
-<div align="center">
-
 *"Learning by doing" — every line of code is a step forward.* 💻  
 > *Open to collaboration, feedback, and new project ideas!*
 
