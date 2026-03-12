@@ -4,12 +4,6 @@
 🎓 CSE Student @ AIUB • 🌱 Exploring C++, Java & Linux • 💡 Building real-world, AI-assisted web projects
 </p>
 
-<p align="center">
-  <a href="https://github.com/ABiR994">
-    <img src="https://komarev.com/ghpvc/?username=ABiR994&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🌱 About Me
