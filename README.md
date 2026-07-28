@@ -19,11 +19,10 @@
 
 ## 🔧 Skills & Tools
 
-* **Languages**: C++ (Intermediate), Java (Intermediate), HTML/CSS (Familiar), JavaScript (Familiar), TypeScript (Familiar)
+* **Languages**: C++, Java, HTML/CSS, JavaScript, TypeScript
 * **Frameworks**: React, Next.js, Framer Motion
-* **Systems**: Linux (Familiar), Command Line, Bash Scripting
+* **Systems**: Linux, Command Line, Bash Scripting
 * **Tools**: Git & GitHub, VS Code, OpenCode, Antigravity
-* **Concepts**: OOP, File I/O, Data Structures (Learning), Problem Solving
 
 ---
 
