@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Salem Nur Abir</h1>
 
 <p align="center">
-🎓 CSE Student @ AIUB • 🌱 Exploring C++, Java & Linux • 💡 Building real-world, AI-assisted web projects
+🎓 CSE Student @ AIUB • 🌱 Exploring Algorithms, Database & Linux • 💡 Learning AI assisted development
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 * 🎓 CSE student focused on **learning core computer science while building projects**
 * 💻 Building **small to medium web apps, often using AI-assisted workflows** to speed up iteration
-* 🌙 Passionate about **UI/UX polish, clean design, and calm user experiences**
 * 🚀 Comfortable **shipping projects end-to-end, debugging persistently, and refining interfaces**
 * 💡 Currently improving: **Data Structures, Algorithms, and independent coding skills**
 * 🎯 Long-term goal: become a **well-rounded software engineer with strong fundamentals**
@@ -20,7 +19,6 @@
 ## 🔧 Skills & Tools
 
 * **Languages**: C++, Java, HTML/CSS, JavaScript, TypeScript
-* **Frameworks**: React, Next.js, Framer Motion
 * **Systems**: Linux, Command Line, Bash Scripting
 * **Tools**: Git & GitHub, VS Code, OpenCode, Antigravity
 
@@ -45,8 +43,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Tools & Platforms
 
