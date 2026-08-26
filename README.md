@@ -80,9 +80,9 @@
 </div>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" height="165">
-<img src="https://nirzak-streak-stats.vercel.app/?user=abir994&theme=transparent&hide_border=false" height="165">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abir994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=ABiR994&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ABiR994&theme=transparent&hide_border=false" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABiR994&layout=compact&theme=transparent" height="165">
 </p>
 
 ---
