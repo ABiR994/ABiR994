@@ -1,4 +1,4 @@
-[![Black-Modern-Personal-Linked-In-Banner-2.png](https://i.postimg.cc/HksZbHfn/Black-Modern-Personal-Linked-In-Banner-2.png)](https://postimg.cc/gnQHW9cb)
+[![banner-dark.png](https://i.postimg.cc/YqLhXmYh/banner-dark.png)](https://postimg.cc/QHs8CC63)
 
 <h1 align="center">Hi 👋 I'm Salem Nur Abir</h1>
 
