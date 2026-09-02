@@ -68,8 +68,9 @@
 </div>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=ABiR994&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ABiR994&theme=transparent&hide_border=false" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=ABiR994&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ABiR994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165"/>
+
 <img src="https://streak-stats.demolab.com/?user=ABiR994&theme=transparent&hide_border=false&timezone=Asia/Dhaka" alt="streak stats"/>
 </p>
 
