@@ -63,18 +63,6 @@
 
 <div align="center">
 
-## 🔝 Top Contributed Repos
-
-</div>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=abir994&limit=5&theme=transparent&combine_all_yearly_contributions=true">
-</p>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 </div>
@@ -82,7 +70,19 @@
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=ABiR994&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165">
 <img src="https://nirzak-streak-stats.vercel.app/?user=ABiR994&theme=transparent&hide_border=false" height="165">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABiR994&layout=compact&theme=transparent" height="165">
+<img src="https://streak-stats.demolab.com/?user=ABiR994&theme=transparent&hide_border=false&timezone=Asia/Dhaka" alt="streak stats"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🔝 Github Contribution
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
