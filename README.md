@@ -124,6 +124,6 @@ Short description of the project.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:7289DA&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2563EB,100:0A0F1E&height=120&section=footer" width="100%"/>
 
 </div>
